@@ -1,6 +1,6 @@
 # Config
 $logFileName = "Security" # Add Name of the Logfile (System, Application, etc)
-$path = "C:\nttir\" # Add Path, needs to end with a backsplash
+$path = "C:\nttirt\" # Add Path, needs to end with a backsplash
 
 # do not edit
 $exportFileName = $logFileName + (get-date -f yyyyMMdd) + ".evt"
