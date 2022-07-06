@@ -1,0 +1,9 @@
+[submodule "offensive/crackle"]
+	path = offensive/crackle
+	url = https://raw.github.com/mikeryan/crackle/
+[submodule "forensics/generic/peepdf"]
+	path = forensics/generic/peepdf
+	url = https://github.com/jesparza/peepdf
+[submodule "threat_hunting/windows/CRT"]
+	path = threat_hunting/windows/CRT
+	url = https://github.com/CrowdStrike/CRT
