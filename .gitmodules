@@ -7,9 +7,6 @@
 [submodule "forensics/windows/python-evtxtool"]
 	path = forensics/windows/python-evtxtool
 	url = https://github.com/janstarke/python-evtxtools
-[submodule "forensics/generic/plaso"]
-	path = forensics/generic/plaso
-	url = https://github.com/log2timeline/plaso
 [submodule "forensics/generic/evtxtools"]
 	path = forensics/generic/evtxtools
 	url = https://github.com/teeshop/evtxtools
