@@ -8,19 +8,26 @@ Imports Windows event logs (`evtx` files) into an elasticsearch index, using the
 
 _No index pattern is required anymore :-)_
 
-__DC 07.2022: 
-     For now ES host and API token are hardcoded, requires VPN connection to ES; 
-     Sugested index pattern: logs-windows-evtximport-YYYY.MM.DD to work with default security detection
-     Modified to work with datastreams (__opcode:create hardcoded)
-     Changes to current ECS schema
-     Supported
-        'Security.evtx',
-        'System.evtx',
-        'Windows PowerShell.evtx'
-        'Microsoft-Windows-WinRM%4Operational.evtx',
-        'Microsoft-Windows-RemoteDesktopServices-RdpCoreTS%4Operational.evtx'
-     If you receive "OSError: failed to fill whole buffer" means the evtx files are 0bytes
-__
+
+###### DC 07.2022: 
+For now ES host and API token are hardcoded, requires VPN connection to ES;
+
+Sugested index pattern: logs-windows-evtximport-YYYY.MM.DD to work with default security detection
+
+Modified to work with datastreams (`__opcode:create` hardcoded)
+
+Changes to current ECS schema
+
+Supported Windows logs
+    'Security.evtx',
+    'System.evtx',
+    'Windows PowerShell.evtx'
+    'Microsoft-Windows-WinRM%4Operational.evtx',
+    'Microsoft-Windows-RemoteDesktopServices-RdpCoreTS%4Operational.evtx'
+
+If you receive "OSError: failed to fill whole buffer" means the evtx files are 0bytes
+
+TODO: ingest into datastreams
 
 ### Usage
 
