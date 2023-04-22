@@ -7,3 +7,27 @@
 [submodule "forensics/generic/evtxtools"]
 	path = forensics/generic/evtxtools
 	url = https://github.com/teeshop/evtxtools
+[submodule "offensive/MicroBurst"]
+	path = offensive/MicroBurst
+	url = https://github.com/NetSPI/MicroBurst
+[submodule "threat_hunting/windows/BeaKer"]
+	path = threat_hunting/windows/BeaKer
+	url = https://github.com/activecm/BeaKer
+[submodule "threat_hunting/generic/rita"]
+	path = threat_hunting/generic/rita
+	url = https://github.com/activecm/rita
+[submodule "threat_hunting/generic/passer"]
+	path = threat_hunting/generic/passer
+	url = https://github.com/activecm/passer
+[submodule "threat_hunting/generic/zeek-open-connections"]
+	path = threat_hunting/generic/zeek-open-connections
+	url = https://github.com/activecm/zeek-open-connections
+[submodule "threat_hunting/generic/threat-tools"]
+	path = threat_hunting/generic/threat-tools
+	url = https://github.com/activecm/threat-tools
+[submodule "threat_hunting/generic/pcap-stats"]
+	path = threat_hunting/generic/pcap-stats
+	url = https://github.com/activecm/pcap-stats
+[submodule "threat_hunting/generic/smudge"]
+	path = threat_hunting/generic/smudge
+	url = https://github.com/activecm/smudge
