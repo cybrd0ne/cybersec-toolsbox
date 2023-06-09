@@ -46,3 +46,6 @@
 [submodule "offensive/pentest-notes"]
 	path = offensive/pentest-notes
 	url = https://github.com/SofianeHamlaoui/Pentest-Notes
+[submodule "offensive/payloadsallthethings"]
+	path = offensive/payloadsallthethings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
