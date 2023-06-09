@@ -49,3 +49,6 @@
 [submodule "offensive/payloadsallthethings"]
 	path = offensive/payloadsallthethings
 	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
+[submodule "offensive/awesome-burp-extentions"]
+	path = offensive/awesome-burp-extentions
+	url = https://github.com/snoopysecurity/awesome-burp-extensions.git
