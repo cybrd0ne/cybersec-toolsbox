@@ -31,3 +31,18 @@
 [submodule "threat_hunting/generic/smudge"]
 	path = threat_hunting/generic/smudge
 	url = https://github.com/activecm/smudge
+[submodule "offensive/AADInternals"]
+	path = offensive/AADInternals
+	url = https://github.com/Gerenios/AADInternals
+[submodule "offensive/o365creeper"]
+	path = offensive/o365creeper
+	url = https://github.com/LMGsec/o365creeper
+[submodule "reconnaissance/GitGot"]
+	path = reconnaissance/GitGot
+	url = https://github.com/BishopFox/GitGot
+[submodule "reconnaissance/gobuster"]
+	path = reconnaissance/gobuster
+	url = https://github.com/OJ/gobuster
+[submodule "offensive/pentest-notes"]
+	path = offensive/pentest-notes
+	url = https://github.com/SofianeHamlaoui/Pentest-Notes
