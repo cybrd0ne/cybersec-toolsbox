@@ -52,3 +52,9 @@
 [submodule "offensive/awesome-burp-extentions"]
 	path = offensive/awesome-burp-extentions
 	url = https://github.com/snoopysecurity/awesome-burp-extensions.git
+[submodule "scanners/nuclei"]
+	path = scanners/nuclei
+	url = https://github.com/projectdiscovery/nuclei
+[submodule "offensive/pentest-book"]
+	path = offensive/pentest-book
+	url = https://github.com/six2dez/pentest-book.git
