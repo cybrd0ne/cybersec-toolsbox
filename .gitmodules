@@ -58,3 +58,9 @@
 [submodule "offensive/pentest-book"]
 	path = offensive/pentest-book
 	url = https://github.com/six2dez/pentest-book.git
+[submodule "reconnaissance/git-dumper"]
+	path = reconnaissance/git-dumper
+	url = https://github.com/arthaud/git-dumper
+[submodule "reconnaissance/pspy"]
+	path = reconnaissance/pspy
+	url = https://github.com/DominicBreuker/pspy
