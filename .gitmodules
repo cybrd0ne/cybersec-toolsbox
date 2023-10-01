@@ -64,3 +64,9 @@
 [submodule "reconnaissance/pspy"]
 	path = reconnaissance/pspy
 	url = https://github.com/DominicBreuker/pspy
+[submodule "reconnaissance/impacket"]
+	path = reconnaissance/impacket
+	url = https://github.com/fortra/impacket.git
+[submodule "offensive/evil-winrm"]
+	path = offensive/evil-winrm
+	url = https://github.com/Hackplayers/evil-winrm
