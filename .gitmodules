@@ -76,3 +76,6 @@
 [submodule "offensive/impacket"]
 	path = offensive/impacket
 	url = https://github.com/fortra/impacket
+[submodule "reconnaissance/ADRecon"]
+	path = reconnaissance/ADRecon
+	url = https://github.com/adrecon/ADRecon.git
