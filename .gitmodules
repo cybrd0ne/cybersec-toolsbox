@@ -73,3 +73,6 @@
 [submodule "forensics/generic/peepdf-python3"]
 	path = forensics/generic/peepdf-python3
 	url = https://github.com/enzok/peepdf
+[submodule "offensive/impacket"]
+	path = offensive/impacket
+	url = https://github.com/fortra/impacket
