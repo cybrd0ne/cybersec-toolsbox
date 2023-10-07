@@ -79,3 +79,6 @@
 [submodule "reconnaissance/ADRecon"]
 	path = reconnaissance/ADRecon
 	url = https://github.com/adrecon/ADRecon.git
+[submodule "offensive/crackmapexec"]
+	path = offensive/crackmapexec
+	url = https://github.com/byt3bl33d3r/CrackMapExec
