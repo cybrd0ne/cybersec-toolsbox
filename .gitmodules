@@ -82,3 +82,18 @@
 [submodule "offensive/crackmapexec"]
 	path = offensive/crackmapexec
 	url = https://github.com/byt3bl33d3r/CrackMapExec
+[submodule "offensive/wordlistctl"]
+	path = offensive/wordlistctl
+	url = https://github.com/BlackArch/wordlistctl.git
+[submodule "offensive/hacktriks"]
+	path = offensive/hacktriks
+	url = https://github.com/carlospolop/hacktricks.git
+[submodule "training/crest-cpsa"]
+	path = training/crest-cpsa
+	url = https://github.com/huy4ng/crest-cpsa
+[submodule "training/katanush-crest-cpsa"]
+	path = training/katanush-crest-cpsa
+	url = https://github.com/felipetruman/katanush-crest-cpsa.git
+[submodule "training/crest_cpsa"]
+	path = training/crest_cpsa
+	url = https://github.com/ahrixia/CREST_CPSA
