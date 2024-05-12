@@ -97,3 +97,6 @@
 [submodule "training/crest_cpsa"]
 	path = training/crest_cpsa
 	url = https://github.com/ahrixia/CREST_CPSA
+[submodule "reconnaissance/awesome-nmap-grep"]
+	path = reconnaissance/awesome-nmap-grep
+	url = https://github.com/leonjza/awesome-nmap-grep
