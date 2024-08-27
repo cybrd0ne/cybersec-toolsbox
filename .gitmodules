@@ -99,4 +99,13 @@
 	url = https://github.com/ahrixia/CREST_CPSA
 [submodule "reconnaissance/awesome-nmap-grep"]
 	path = reconnaissance/awesome-nmap-grep
-	url = https://github.com/leonjza/awesome-nmap-grep
+	url = https://github.com/leonjza/awesome-nmap-grep.git
+[submodule "reconnaissance/ffuf"]
+	path = reconnaissance/ffuf
+	url = https://github.com/ffuf/ffuf.git
+[submodule "reconnaissance/SecLists"]
+	path = reconnaissance/SecLists
+	url = https://github.com/danielmiessler/SecLists.git
+[submodule "offensive/badPods"]
+	path = offensive/badPods
+	url = https://github.com/BishopFox/badPods.git
