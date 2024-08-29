@@ -109,3 +109,6 @@
 [submodule "offensive/badPods"]
 	path = offensive/badPods
 	url = https://github.com/BishopFox/badPods.git
+[submodule "training/CSCTF-2024-challenges"]
+	path = training/CSCTF-2024-challenges
+	url = https://github.com/ChronosPK/CSCTF-2024-challenges
