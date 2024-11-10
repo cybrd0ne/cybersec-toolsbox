@@ -112,3 +112,9 @@
 [submodule "training/CSCTF-2024-challenges"]
 	path = training/CSCTF-2024-challenges
 	url = https://github.com/ChronosPK/CSCTF-2024-challenges
+[submodule "reconnaissance/sherlock"]
+	path = reconnaissance/sherlock
+	url = https://github.com/sherlock-project/sherlock
+[submodule "reconnaissance/recon-ng"]
+	path = reconnaissance/recon-ng
+	url = https://github.com/lanmaster53/recon-ng
