@@ -118,3 +118,15 @@
 [submodule "reconnaissance/recon-ng"]
 	path = reconnaissance/recon-ng
 	url = https://github.com/lanmaster53/recon-ng
+[submodule "reconnaissance/RPCScan"]
+	path = reconnaissance/RPCScan
+	url = https://github.com/hegusung/RPCScan
+[submodule "reconnaissance/dnsrecon"]
+	path = reconnaissance/dnsrecon
+	url = https://github.com/darkoperator/dnsrecon
+[submodule "offensive/rebeus"]
+	path = offensive/rebeus
+	url = https://github.com/GhostPack/Rubeus
+[submodule "offensive/spartacus"]
+	path = offensive/spartacus
+	url = https://github.com/sadreck/Spartacus.git
