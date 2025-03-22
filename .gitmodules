@@ -190,3 +190,39 @@
 [submodule "offensive/pacu"]
 	path = offensive/pacu
 	url = https://github.com/RhinoSecurityLabs/pacu
+[submodule "offensive/DumpsterDiver"]
+	path = offensive/DumpsterDiver
+	url = https://github.com/securing/DumpsterDiver.git
+[submodule "offensive/ccat"]
+	path = offensive/ccat
+	url = https://github.com/RhinoSecurityLabs/ccat
+[submodule "training/AWSGoat"]
+	path = training/AWSGoat
+	url = https://github.com/ine-labs/AWSGoat
+[submodule "offensive/Spray365"]
+	path = offensive/Spray365
+	url = https://github.com/MarkoH17/Spray365
+[submodule "offensive/Stormspotter"]
+	path = offensive/Stormspotter
+	url = https://github.com/Azure/Stormspotter
+[submodule "reconnaissance/AzureHound"]
+	path = reconnaissance/AzureHound
+	url = https://github.com/SpecterOps/AzureHound
+[submodule "training/AzureGoat"]
+	path = training/AzureGoat
+	url = https://github.com/ine-labs/AzureGoat
+[submodule "scanners/gcp_scanner"]
+	path = scanners/gcp_scanner
+	url = https://github.com/google/gcp_scanner
+[submodule "scanners/cloud_enum"]
+	path = scanners/cloud_enum
+	url = https://github.com/initstring/cloud_enum
+[submodule "offensive/GCPBucketBrute"]
+	path = offensive/GCPBucketBrute
+	url = https://github.com/RhinoSecurityLabs/GCPBucketBrute
+[submodule "GCPGoat"]
+	path = GCPGoat
+	url = https://github.com/ine-labs/GCPGoat
+[submodule "training/GCPGoat"]
+	path = training/GCPGoat
+	url = https://github.com/ine-labs/GCPGoat
