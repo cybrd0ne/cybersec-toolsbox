@@ -130,3 +130,63 @@
 [submodule "offensive/spartacus"]
 	path = offensive/spartacus
 	url = https://github.com/sadreck/Spartacus.git
+[submodule "offensive/beroot"]
+	path = offensive/beroot
+	url = https://github.com/AlessandroZ/BeRoot.git
+[submodule "offensive/pwncat"]
+	path = offensive/pwncat
+	url = https://github.com/calebstewart/pwncat.git
+[submodule "offensive/OffensiveGolang"]
+	path = offensive/OffensiveGolang
+	url = https://github.com/MrTuxx/OffensiveGolang
+[submodule "offensive/camover"]
+	path = offensive/camover
+	url = https://github.com/EntySec/CamOver.git
+[submodule "reconnaissance/wafw00f"]
+	path = reconnaissance/wafw00f
+	url = https://github.com/EnableSecurity/wafw00f.git
+[submodule "offensive/ActiveDirectory-Pentest-Resources"]
+	path = offensive/ActiveDirectory-Pentest-Resources
+	url = https://github.com/daniellowrie/ActiveDirectory-Pentest-Resources.git
+[submodule "mindmaps/mobile-pentesting"]
+	path = mindmaps/mobile-pentesting
+	url = https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
+[submodule "offensive/PhoneSploit-Pro"]
+	path = offensive/PhoneSploit-Pro
+	url = https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+[submodule "scanners/cloudsploit"]
+	path = scanners/cloudsploit
+	url = https://github.com/aquasecurity/cloudsploit.git
+[submodule "scanners/prowler"]
+	path = scanners/prowler
+	url = https://github.com/prowler-cloud/prowler
+[submodule "reconnaissance/cloudbrute"]
+	path = reconnaissance/cloudbrute
+	url = https://github.com/0xsha/CloudBrute
+[submodule "reconnaissance/BucketLoot"]
+	path = reconnaissance/BucketLoot
+	url = https://github.com/redhuntlabs/BucketLoot
+[submodule "scanners/PMapper"]
+	path = scanners/PMapper
+	url = https://github.com/nccgroup/PMapper
+[submodule "scanners/cloudsplaining"]
+	path = scanners/cloudsplaining
+	url = https://github.com/salesforce/cloudsplaining
+[submodule "scanners/ghostbuster"]
+	path = scanners/ghostbuster
+	url = https://github.com/assetnote/ghostbuster
+[submodule "scanners/cartography"]
+	path = scanners/cartography
+	url = https://github.com/cartography-cncf/cartography
+[submodule "scanners/cloudfox"]
+	path = scanners/cloudfox
+	url = https://github.com/BishopFox/cloudfox
+[submodule "training/stratus-red-team"]
+	path = training/stratus-red-team
+	url = https://github.com/DataDog/stratus-red-team
+[submodule "training/atomic-red-team"]
+	path = training/atomic-red-team
+	url = https://github.com/redcanaryco/atomic-red-team
+[submodule "offensive/pacu"]
+	path = offensive/pacu
+	url = https://github.com/RhinoSecurityLabs/pacu
