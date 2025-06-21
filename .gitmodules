@@ -226,3 +226,54 @@
 [submodule "training/GCPGoat"]
 	path = training/GCPGoat
 	url = https://github.com/ine-labs/GCPGoat
+[submodule "scanners/ScoutSuite"]
+	path = scanners/ScoutSuite
+	url = https://github.com/nccgroup/ScoutSuite.git
+[submodule "reconnaissance/wesng"]
+	path = reconnaissance/wesng
+	url = https://github.com/bitsadmin/wesng.git
+[submodule "offensive/ruler"]
+	path = offensive/ruler
+	url = https://github.com/sensepost/ruler
+[submodule "mindmaps/LOLBAS"]
+	path = mindmaps/LOLBAS
+	url = https://github.com/LOLBAS-Project/LOLBAS.git
+[submodule "offensive/SharpLNKGen-UI"]
+	path = offensive/SharpLNKGen-UI
+	url = https://github.com/jfmaes/SharpLNKGen-UI
+[submodule "offensive/CS-Situational-Awareness-BOF"]
+	path = offensive/CS-Situational-Awareness-BOF
+	url = https://github.com/trustedsec/CS-Situational-Awareness-BOF
+[submodule "offensive/SharpRDPHijack"]
+	path = offensive/SharpRDPHijack
+	url = https://github.com/bohops/SharpRDPHijack
+[submodule "offensive/ServifyThis"]
+	path = offensive/ServifyThis
+	url = https://github.com/inguardians/ServifyThis
+[submodule "offensive/acCOMplice"]
+	path = offensive/acCOMplice
+	url = https://github.com/nccgroup/acCOMplice.git
+[submodule "offensive/MagicSigner"]
+	path = offensive/MagicSigner
+	url = https://github.com/namazso/MagicSigner
+[submodule "offensive/COM-Hunter"]
+	path = offensive/COM-Hunter
+	url = https://github.com/nickvourd/COM-Hunter
+[submodule "offensive/Invoke-Maldaptive"]
+	path = offensive/Invoke-Maldaptive
+	url = https://github.com/MaLDAPtive/Invoke-Maldaptive
+[submodule "offensive/SharpMove"]
+	path = offensive/SharpMove
+	url = https://github.com/0xthirteen/SharpMove
+[submodule "offensive/Farmer"]
+	path = offensive/Farmer
+	url = https://github.com/mdsecactivebreach/Farmer
+[submodule "offensive/PowerUpSQL"]
+	path = offensive/PowerUpSQL
+	url = https://github.com/NetSPI/PowerUpSQL
+[submodule "training/aws_mini_ad"]
+	path = training/aws_mini_ad
+	url = https://github.com/jfmaes/aws_mini_ad
+[submodule "training/SANS-Workshop-Lab"]
+	path = training/SANS-Workshop-Lab
+	url = https://github.com/aleemladha/SANS-Workshop-Lab/
