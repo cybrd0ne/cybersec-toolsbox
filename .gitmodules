@@ -277,3 +277,6 @@
 [submodule "training/SANS-Workshop-Lab"]
 	path = training/SANS-Workshop-Lab
 	url = https://github.com/aleemladha/SANS-Workshop-Lab/
+[submodule "mindmaps/PayloadsAllTheThings"]
+	path = mindmaps/PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
