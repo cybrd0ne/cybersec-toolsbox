@@ -280,3 +280,12 @@
 [submodule "mindmaps/PayloadsAllTheThings"]
 	path = mindmaps/PayloadsAllTheThings
 	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
+[submodule "offensive/malicious-pdf"]
+	path = offensive/malicious-pdf
+	url = https://github.com/jonaslejon/malicious-pdf.git
+[submodule "reconnaissance/spiderfoot"]
+	path = reconnaissance/spiderfoot
+	url = https://github.com/smicallef/spiderfoot.git
+[submodule "mindmaps/RedTeam-PenTest-Cheatsheet-Checklist"]
+	path = mindmaps/RedTeam-PenTest-Cheatsheet-Checklist
+	url = https://github.com/ibr0wse/RedTeam-PenTest-Cheatsheet-Checklist
