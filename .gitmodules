@@ -289,3 +289,9 @@
 [submodule "mindmaps/RedTeam-PenTest-Cheatsheet-Checklist"]
 	path = mindmaps/RedTeam-PenTest-Cheatsheet-Checklist
 	url = https://github.com/ibr0wse/RedTeam-PenTest-Cheatsheet-Checklist
+[submodule "mindmaps/adversaryemulation-gems"]
+	path = mindmaps/adversaryemulation-gems
+	url = https://github.com/0x4143/adversaryemulation-gems
+[submodule "reconnaissance/adidnsdump"]
+	path = reconnaissance/adidnsdump
+	url = https://github.com/dirkjanm/adidnsdump
